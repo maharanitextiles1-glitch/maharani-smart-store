@@ -6,4 +6,11 @@
     "moduleResolution": "Bundler"
   },
   "include": ["vite.config.ts"]
+}{
+  "compilerOptions": {
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "ESNext",e
+  },
+ c "include": ["vite.config.ts"]
 }
