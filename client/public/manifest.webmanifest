@@ -1,0 +1,9 @@
+{
+  "name": "Maharani Smart Store",
+  "short_name": "Maharani",
+  "start_url": "/find",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#7c2d12",
+  "icons": []
+}
